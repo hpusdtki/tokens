@@ -1,0 +1,11 @@
+{
+ "name": "TETHER USD",
+ "website": "https://mcoex.com",
+ "description": "MCOEX's official platform coins",
+ "explorer": "https://etherscan.io/address/0x9477f48a278909A94D8cd9480dFA85D07103F004",
+ "type": "ERC20",
+ "symbol": "USDT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x9477f48a278909A94D8cd9480dFA85D07103F004"
+}
